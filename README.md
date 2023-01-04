@@ -34,7 +34,7 @@ Tıp ve biyoloji bilimlerinde uygulamalı istatistikler [1]
 
 •	L. Gao ve ark. bir faz asimetrisi yaklaşımı ile yeni bir kenar durdurma işlevini birleştirerek ultrasonik meme tümörlerinin segmentasyonu ile ilgilenir. Gürültüyle sağlam bir şekilde başa çıkabilen ve düşük kontrast ve/veya içbükey sınırları yüksek doğrulukla çıkarabilen bir yöntem geliştirdiler.
 
-•	Y. Jung ve ark. yazarların nörobilim alanında nedensellik çıkarımı için kullanılan en son teknolojileri tanımladığı iyi organize edilmiş bir gözden geçirme makalesidir. Makale, matematiksel teorilerinin uygulanabileceği yeni bir disiplinler arası araştırma konusunu tanıttığı için, bu derginin okuyucularının inceleme makalesiyle ilgilenmesi beklenmektedir.
+•	Y. Jung ve ark. yazarların nörobilim alanında nedensellik çıkarımı için kullanılan en son teknolojileri tanımladığı iyi organize edilmiş bir gözden geçirme makalesidir. Makale, matematiksel teorilerinin uygulanabileceği yeni bir disiplinler arası araştırma konusunu tanıttığı için, bu derginin okuyucularının inceleme makalesiyle ilgilenmesi beklenmektedir. [2]
 
 Kaynak: 
 1. Im, C. H., Kwon, K., Jo, H. J., & Serranho, P. (2014). Applied mathematics in biomedical sciences and engineering 2014. Journal of Applied Mathematics, 2014.
